@@ -1,1 +1,1 @@
-#C'est pas le meme que Kirby
+//C'est pas le meme que Kirby
